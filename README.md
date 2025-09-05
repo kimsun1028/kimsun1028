@@ -1,3 +1,12 @@
 # kimsun1028
-I am Taeyang Kim, Student in the [Dept. of Copmputer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.seoultech.ac.kr/).
-I am interested in developing Games
+
+## About Me
+- :mortar_board: 2nd-year Computer Science student at [SEOULTECH](https://en.seoultech.ac.kr/)
+- :video_games: Interested in **Game Development**
+- :computer: Learning **C, C++, Java, and C#**
+
+## Interests
+*  **Game Programming**
+
+## Contact
+-  Email: kimsun1028@naver.com
