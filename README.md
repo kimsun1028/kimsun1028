@@ -2,7 +2,7 @@
 
 ## About Me
 - :mortar_board: 2nd-year Computer Science student at [SEOULTECH](https://en.seoultech.ac.kr/)
-- :video_games: Interested in **Game Development**
+- :video_game: Interested in **Game Development**
 - :computer: Learning **C, C++, Java, and C#**
 
 ## Interests
