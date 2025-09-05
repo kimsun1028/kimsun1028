@@ -1,0 +1,7 @@
+# Visual Studio 관련 폴더 무시
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
